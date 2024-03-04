@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickamma-kahika
-- 👀 I’m interested in Java Fullstack
+- 👀 I’m interested in Fullstack Development | Javascript | React 
 - 🌱 I’m currently learning java development
 - 💞️ I’m looking to collaborate on projects which contains java, spring Boot and react maybe :)
 - 📫 How to reach me
