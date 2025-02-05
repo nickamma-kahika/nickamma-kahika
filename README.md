@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java development
 - 💞️ I’m looking to collaborate on projects which contains java, spring Boot and react maybe :)
 - 📫 How to reach me
-- @ChupRehChal on X :)
+  
 
 <!---
 nickamma-kahika/nickamma-kahika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
