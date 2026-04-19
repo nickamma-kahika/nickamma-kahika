@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nickamma-kahika
-- 👀 I’m interested in Fullstack Development | Javascript | React 
-- 🌱 I’m currently learning Full stack web development
+- 👀 Java | Javascript | React 
+- 🌱 Currently learning
 - 💞️ 
-- 📫 How to reach me
+- 📫 
   
 
 <!---
