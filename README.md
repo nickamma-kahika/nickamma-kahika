@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nickamma-kahika
-- 👀 Java | Javascript | React 
-- 🌱 Currently learning
-- 💞️ 
-- 📫 
+- 👋 Hi, I’m Lakshay :-)
+- 👀 Python | Django | React 
+- 🌱 Currently learning and growing
+- 📫 vardhanlakshay@gmail.com
   
 
 <!---
